@@ -1,5 +1,29 @@
 # TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights
 
+# Task 1: Framing the Business Scenario
+
+Here is the background information on your task
+An online retail store has hired you as a consultant to review their data and provide insights that would be valuable to the CEO and CMO of the business. The business has been performing well and the management wants to analyse what the major contributing factors are to the revenue so they can strategically plan for next year.
+
+The leadership is interested in viewing the metrics from both an operations and marketing perspective. Management also intends to expand the business and is interested in seeking guidance into areas that are performing well so they can keep a clear focus on what’s working. They would also like to view different metrics based on the demographic information that is available in the data.
+
+A meeting with the CEO and CMO has been scheduled for next month and you need to draft the relevant analytics and insights that would help evaluate the current business performance and suggest metrics that would enable them to make the decision on expansion.
+
+Remember, thinking from the perspective of business leaders allows you to analyse the data more effectively and present better insights.
+ 
+
+# Task 2: Choosing the Right Visuals
+
+Here is your task
+In this task, you will be required to read the questions carefully and understand that business requirement. Once you have an idea of what is required from the perspective of the CEO and CMO, you will need to come up with the perfect visual which will illustrate what the senior managers are looking for in each scenario. Remember, data can be presented in multiple types of charts, but you are required to select the visual that would best display the information which is being presented.
+
+You will be provided resources on how to select visuals based on the different scenarios, these are available in the resources below. These resources will help you get an idea on which visual to select for the given business scenario and will also guide you on how to choose the right chart or graph for your data. Each question will contain a unique scenario and you will be expected to answer the questions based on that scenario.
+
+To complete this task, answer the multiple-choice quiz. Start the quiz by clicking ‘Start your quiz’ below. Please note there are 5 multiple choice questions to complete in this task. Please be patient as each question loads.
+
+
+
+
 # Task 3: Creating Effective Visuals
 
 
