@@ -54,6 +54,23 @@ The CMO is interested in viewing the top 10 countries which are generating the h
 Question 3
 The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products.
 
+
+# Task 4: Communicating Insights and Analysis
+
+
+Here is your task
+Develop a script and record a video presenting your findings to the CEO and CMO based on the four questions they asked and the visuals you created in the previous tasks.
+
+You can use your work or the model answer from the previous task to develop your presentation.
+
+When writing your script, you should speak about your entire process, including the initial data load and clean-up steps so that your leaders know you’ve done your due diligence in providing error-free analysis. 
+Data analysis provides heaps of information but remember to focus on the information that is most important to your leaders.
+
+Your video should be approximately 5 minutes in length. You can record your video in the browser or upload a video from your device below.
+
+Remember, this is not just a read out of your visuals, you’re presenting to the CEO and CMO and need to provide context for each scenario and how it relates to their questioning. 
+
+You do not need to submit your script or talking points for this deliverable
 Question 4
 The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
 
