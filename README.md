@@ -1,4 +1,4 @@
-# TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights
+# Retail Business Performance Analytics & Visualization Project 
 
 # Task 1: Framing the Business Scenario
 
